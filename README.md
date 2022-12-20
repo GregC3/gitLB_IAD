@@ -1,4 +1,4 @@
-# Data mining/Data science | Homewrok
+# Data mining/Data science | Homework
 This repository created as a storage for 4 homeworks that were created during the Data mining lessons course.
 
 Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract or extrapolate knowledge and insights from noisy, structured and unstructured data,[1][2] and apply knowledge from data across a broad range of application domains. Data science is related to data mining, machine learning, big data, computational statistics and analytics.
